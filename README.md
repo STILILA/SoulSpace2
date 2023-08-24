@@ -8,7 +8,7 @@ made by RPG MAKER XP
 
 靈界2使用的動態戰鬥系統部分程式碼，改造自"歯車の城"的RTAB，RTAB作者的網站已倒。
 
-A portion of the code for the sideview battle system.　Modify using the RTAB.　
+A portion of the code for the sideview battle system.　Modify using the RTAB. The original author's website has been closed.
 
 自作したサイドビューバトルシステムの一部のコードです。"RTAB"というバトルシステムで改造されたものです。RTABの開発元のサイトはもう閉鎖されました。
 
