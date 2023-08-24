@@ -1,7 +1,7 @@
 # SoulSpace2動態戰鬥系統節錄
 
-SoulSpace靈界2-縫隙間的魂魄(Chinese site)
-https://forum.gamer.com.tw/Co.php?bsn=4918
+SoulSpace靈界2-縫隙間的魂魄
+https://forum.gamer.com.tw/Co.php?bsn=4918(Chinese site)
 
 made with RPG MAKER XP
 
